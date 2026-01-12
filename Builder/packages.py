@@ -9,7 +9,7 @@ BASE = Packages(
             "bluez-utils", "playerctl", "upower", "brightnessctl", 
 			"udiskie", "xdg-desktop-portal-gtk", "xdg-desktop-portal",
             "mkinitcpio", "xorg-server-xvfb", "gobject-introspection",
-            "power-profiles-daemon", "gvfs-mtp", "android-udev",
+            "power-profiles-daemon", "gvfs-mtp", "android-udev","tailscale",
 
 			##==> Audio
             ###########################################
